@@ -1,0 +1,19 @@
+.container {
+    margin: 10px;
+}
+
+.container div {
+    margin: 10px 0;
+}
+
+.container label {
+    margin-right: 10px;
+}
+
+.container input[type="number"] {
+    margin-right: 20px;
+}
+
+.container button {
+    margin-top: 20px;
+}
